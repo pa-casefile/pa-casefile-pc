@@ -2,7 +2,7 @@
 # Prudentia Academy Case File (Demo)
 
 ## 🔮 About the Demo
-This demo includes the **【Complete Chapter 1 Experience】**.
+This demo includes the **Chapter 1**.
 In this chapter, you can get a sneak peek at the core magic academy daily life, character stat raising/scheduling, and the clue gathering and detective deduction for the mystery case.
 * ⏳ **Estimated Playtime**: Around 1 - 2 hours.
 
@@ -16,7 +16,7 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 # 普魯登蒂亞學園事件簿（試玩版）
 
 ## 🔮 關於試玩版
-本試玩版開放了遊戲的**【第一章：完整體驗】**。
+本試玩版開放了遊戲的**第一章**。
 在這一章中，您可以搶先體驗核心的魔法學園日常、角色養成日程安排，以及懸疑案件的線索搜集與偵探推演。
 * ⏳ **預估遊玩時間**：約 1 ~ 2 小時。
 
@@ -30,7 +30,7 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 # プルデンティア学園事件簿（体験版）
 
 ## 🔮 体験版について
-本体験版では、ゲームの**【第一章：フル体験】**をお楽しみいただけます。
+本体験版では、ゲームの**第一章**をお楽しみいただけます。
 この章では、魔法学園の日常、キャラクターの育成スケジュール、そして最初の超自然サスペンス事件の証拠集めや探偵としての推理システムをいち早く体験することができます。
 * ⏳ **想定プレイ時間**：約1時間〜2時間。
 
