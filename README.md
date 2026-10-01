@@ -21,7 +21,7 @@
 
 ## プレイ方法
 1. **ダウンロード**：[Releases](../../releases) ページから `PrudentiaAcademy-0.1-pc.zip` をダウンロードします
-2. **解凍**：ダウンロードした `PrudentiaAcademy-0.1-pc.zip` ファイルをパソコン上に解凍（展開）します
+2. **解凍**：ダウンロードした `PrudentiaAcademy-0.1-pc.zip` ファイルをパソコン上に解凍します
 3. **ゲーム起動**：解凍したフォルダを開き、`PrudentiaAcademy.exe` をダブルクリックするとゲームが開始します
 
 ---
