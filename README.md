@@ -1,4 +1,4 @@
-![遊戲橫幅海報](./images/x_banner.png)
+![Game Banner](./images/en/x_banner.png)
 # Prudentia Academy Case File
 
 ## How to Play
@@ -7,6 +7,7 @@
 3. **Launch**: Open the extracted folder and double-click `PrudentiaAcademy.exe` to start the game!
 
 ---
+![遊戲橫幅海報](./images/zh/x_banner.png)
 # 普魯登蒂亞學園事件簿
 
 ## 遊玩方法
@@ -15,6 +16,7 @@
 3. **啟動遊戲**：開啟解壓後的資料夾，雙擊執行 `PrudentiaAcademy.exe` 即可開始遊玩！
 
 ---
+![ゲームのバナー画像](./images/jp/x_banner.png)
 # プルデンティア学園事件簿
 
 ## プレイ方法
