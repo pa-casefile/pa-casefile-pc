@@ -6,7 +6,7 @@
 ## 👾 About the Game
 
 ### 🏫 Academy Life
-![Screenshot 01](./images/en/academy life 01.webp)
+![Screenshot 01](./images/en/academy_life_01.webp)
 
 ### 🔍 Investigation & Deduction
 
