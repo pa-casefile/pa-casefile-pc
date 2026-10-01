@@ -6,9 +6,10 @@
 ## 👾 About the Game
 
 ### 🏫 Academy Life
-![Screenshot 01](./images/en/academy_life_01.webp)
+![Screenshot Academy Life](./images/en/academy_life.webp)
 
 ### 🔍 Investigation & Deduction
+![Screenshot Investigation](./images/en/investigate.webp)
 
 ## 🔮 About the Demo
 This demo includes the **Chapter 1**.
