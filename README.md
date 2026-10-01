@@ -2,7 +2,7 @@
 # Prudentia Academy Case File (Demo)
 
 ## 📜 Story
-**"Solve this case, and you shall live."**
+**"Solve this case, and you shall live."**  
 A girl calling herself a "Death Deity" suddenly whisks you away to a mysterious magic academy to master detective skills.
 Her sole purpose? A single murder case—where the victim is none other than all of humanity!
 
