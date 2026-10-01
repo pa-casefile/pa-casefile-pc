@@ -1,5 +1,5 @@
 ![Game Banner](./images/en/x_banner.png)
-# Prudentia Academy Case File
+# Prudentia Academy Case File　(Demo)
 
 ## 🔮 About the Demo
 This demo includes the **【Complete Chapter 1 Experience】**.
@@ -13,7 +13,7 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 
 ---
 ![遊戲橫幅海報](./images/zh/x_banner.png)
-# 普魯登蒂亞學園事件簿
+# 普魯登蒂亞學園事件簿（試玩版）
 
 ## 🔮 關於試玩版
 本試玩版開放了遊戲的**【第一章：完整體驗】**。
@@ -27,7 +27,7 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 
 ---
 ![ゲームのバナー画像](./images/ja/x_banner.png)
-# プルデンティア学園事件簿
+# プルデンティア学園事件簿（体験版）
 
 ## 🔮 体験版について
 本体験版では、ゲームの**【第一章：フル体験】**をお楽しみいただけます。
