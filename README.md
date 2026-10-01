@@ -1,5 +1,5 @@
 ![Game Banner](./images/en/x_banner.png)
-# Prudentia Academy Case File　(Demo)
+# Prudentia Academy Case File (Demo)
 
 ## 🔮 About the Demo
 This demo includes the **【Complete Chapter 1 Experience】**.
