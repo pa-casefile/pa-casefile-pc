@@ -1,6 +1,14 @@
 ![Game Banner](./images/en/x_banner.png)
 # Prudentia Academy Case File (Demo)
 
+## 📜 Story
+
+## 👾 About the Game
+
+### 🏫 Academy Life
+
+### 🔍 Investigation & Deduction
+
 ## 🔮 About the Demo
 This demo includes the **Chapter 1**.
 In this chapter, you can get a sneak peek at the core magic academy daily life, character stat raising/scheduling, and the clue gathering and detective deduction for the mystery case.
@@ -15,6 +23,14 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 ![遊戲橫幅海報](./images/zh/x_banner.png)
 # 普魯登蒂亞學園事件簿（試玩版）
 
+## 📜 故事背景
+
+## 👾 關於遊戲
+
+### 🏫 學園生活
+
+### 🔍 探案解謎
+
 ## 🔮 關於試玩版
 本試玩版開放了遊戲的**第一章**。
 在這一章中，您可以搶先體驗核心的魔法學園日常、角色養成日程安排，以及懸疑案件的線索搜集與偵探推演。
@@ -28,6 +44,14 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 ---
 ![ゲームのバナー画像](./images/ja/x_banner.png)
 # プルデンティア学園事件簿（体験版）
+
+## 📜 プロローグ
+
+## 👾 ゲームについて
+
+### 🏫 学園生活
+
+### 🔍 事件捜査と謎解き
 
 ## 🔮 体験版について
 本体験版では、ゲームの**第一章**をお楽しみいただけます。
