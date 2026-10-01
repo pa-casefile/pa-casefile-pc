@@ -30,8 +30,10 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 ## 👾 關於遊戲
 
 ### 🏫 學園生活
+![Screenshot Academy Life](./images/zh/academy_life.webp)
 
 ### 🔍 探案解謎
+![Screenshot Investigation](./images/zh/investigate.webp)
 
 ## 🔮 關於試玩版
 本試玩版開放了遊戲的**第一章**。
@@ -52,8 +54,10 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 ## 👾 ゲームについて
 
 ### 🏫 学園生活
+![Screenshot Academy Life](./images/ja/academy_life.webp)
 
 ### 🔍 事件捜査と謎解き
+![Screenshot Investigation](./images/ja/investigate.webp)
 
 ## 🔮 体験版について
 本体験版では、ゲームの**第一章**をお楽しみいただけます。
