@@ -3,7 +3,7 @@
 
 ## 📜 Story
 **"Solve this case, and you shall live."**  
-A girl calling herself a "Death Deity" suddenly whisks you away to a mysterious magic academy to master detective skills.  
+A girl calling herself a "Death Deity" suddenly whisks you away to a isekai magic academy to master detective skills.  
 Her sole purpose? A single murder case—where the victim is none other than all of humanity!
 
 ## 👾 About the Game
@@ -30,7 +30,7 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 
 ## 📜 故事背景
 **「只要破了這宗案，你就能活下去。」**  
-一位自稱「死神」的少女，突然將你強行帶到了神祕的魔法學園，命令你在此學習探案技巧。  
+一位自稱「死神」的少女，突然將你強行帶到了異世界的魔法學園，命令你在此學習探案技巧。  
 她的目的，僅僅是為了一宗即將發生的神祕凶案──而那宗凶案的受害者，竟然是「全人類」！
 
 ## 👾 關於遊戲
@@ -57,7 +57,7 @@ In this chapter, you can get a sneak peek at the core magic academy daily life, 
 
 ## 📜 プロローグ
 **「この事件さえ解決すれば、お前は生き残れる。」**  
-「死神」を自称する謎の少女によって、突如として魔法学校へと連れ去られたあなた。  
+「死神」を自称する謎の少女によって、異世界の魔法学校へと連れ去られたあなた。  
 そこで探偵技術を学ぶよう命じられた目的は、ある一つの殺人事件のため。  
 そして、その事件の被害者は……「全人類」だった。
 
